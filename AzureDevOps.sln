@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOps", "AzureDevOps\AzureDevOps.csproj", "{6B1C1A4F-F3A8-4FC8-9033-C1AA59FB9114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOps.Tests", "AzureDevOps.Tests\AzureDevOps.Tests.csproj", "{840214BB-C6E9-45DE-A632-3E9E60DA5AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1C1A4F-F3A8-4FC8-9033-C1AA59FB9114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1C1A4F-F3A8-4FC8-9033-C1AA59FB9114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1C1A4F-F3A8-4FC8-9033-C1AA59FB9114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1C1A4F-F3A8-4FC8-9033-C1AA59FB9114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840214BB-C6E9-45DE-A632-3E9E60DA5AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840214BB-C6E9-45DE-A632-3E9E60DA5AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840214BB-C6E9-45DE-A632-3E9E60DA5AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840214BB-C6E9-45DE-A632-3E9E60DA5AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
